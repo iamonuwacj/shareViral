@@ -284,10 +284,11 @@ div.blues {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-left: 1%;
 }
 
 .img-cont {
-    width: 40px;
+    width: 100%;
 }
 
 .img-cont img {
@@ -335,7 +336,7 @@ div.blues {
 
 .pic img {
     position: absolute;
-    top: -200px;
+    top: -160px;
 }
 
 .my-footer {
